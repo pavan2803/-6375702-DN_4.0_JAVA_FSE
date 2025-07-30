@@ -1,0 +1,18 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.posts-container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.post {
+  background: #f4f4f4;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 5px;
+  text-align: left;
+}
